@@ -17,3 +17,5 @@
 10. Give gratuity to driver
 11. Eat.
 20. Provide online review if warranted
+    A.  State comment or concern
+    B.  Provide recommendation for pizzeria
