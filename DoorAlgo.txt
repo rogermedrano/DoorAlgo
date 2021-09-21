@@ -1,0 +1,19 @@
+1.  Decide which pizzeria to deliver from
+    A.  Perform online search
+    B.  Read reviews
+    C.  Creat choice list based on delivery time
+2.  Call pizzeria and request information
+    A.  Specials
+    B.  Customer favorites
+3.  Request items for toppings
+4.  Order sides or appetizers
+5.  Confirm order and pay over the phone
+6.  Wait for pizza delivery
+7.  Calculate tip/gratuity for driver
+    A.  Tip = Total cost + 15%
+    B.  Find cash on hand and round up to nearest dollar
+8.  Greet delivery driver at door
+9.  Confirm all items ordered are delivered
+10. Give gratuity to driver
+11. Eat.
+20. Provide online review if warranted
