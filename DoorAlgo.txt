@@ -14,7 +14,9 @@
     B.  Find cash on hand and round up to nearest dollar
 8.  Greet delivery driver at door
 9.  Confirm all items ordered are delivered
-10. Give gratuity to driver
+    A. If wrong items, notify driver
+    B. Call pizzeria
+10. Take the food anyway if you're that hungry
 11. Eat.
 20. Provide online review if warranted
     A.  State comment or concern
